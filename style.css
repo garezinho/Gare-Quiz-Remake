@@ -1,0 +1,46 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-image: url(img/garejogado.png);
+    background-size: cover;
+
+}
+
+
+body {}
+
+#container {
+    position: relative;
+    padding-top: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 10px;
+    align-items: center;
+    text-align: center;
+    
+    
+
+}
+
+#startBt{
+    height: 70px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 100%;
+
+}
+
+#infosBt{
+    height: 70px;
+    width: 200px;
+    font-size: 30px;
+
+}
+
+#startBt:hover{
+    
+}
+#infosBt:hover{
+
+}
