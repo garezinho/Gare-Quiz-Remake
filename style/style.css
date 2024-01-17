@@ -10,6 +10,12 @@
 
 }
 
+html,
+body {
+
+    overflow: hidden;
+}
+
 
 #container {
     position: relative;
@@ -105,15 +111,10 @@ footer {
 }
 
 
-/* ASK1 STYLES */
 
 
-#ask1 {
 
-    background-color: wheat;
-    padding: 0;
-    margin: 0;
-}
+#ask1 {}
 
 #ask {
 
@@ -127,7 +128,6 @@ footer {
     align-items: center;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
 
 
 }
@@ -146,12 +146,12 @@ footer {
     text-align: center;
     font-size: 100px;
     font-family: 'Silkscreen', sans-serif;
-    
-    
+
+
 }
 
-#text{
+#text {
 
-   font-size: 40px;
-   font-family: 'Nova Square', sans-serif;
+    font-size: 40px;
+    font-family: 'Nova Square', sans-serif;
 }
